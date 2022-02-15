@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# React JS Hooks: De Cero a Experto Creado Aplicaciones Reales
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Curso en Udemy donde podras aprender desde cero React JS._
 
-## Available Scripts
+**Curso:** https://courses.agustinnavarrogaldon.com/react
 
-In the project directory, you can run:
+## Comenzando 🚀
 
-### `yarn start`
+_Gracias a este curso aprenderás desde los conceptos básicos de **React JS**, hasta lo más **avanzado** para crear páginas webs completas desde cero._
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+_Una vez terminado el curso **serás capaz de crear cualquier tipo de aplicación web SPA** conectada a una API de datos sin necesidad de ayuda._
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+_Aprenderemos desde las bases de **React JS** y crearemos poderosas páginas webs que consuman APIs de terceros sin dificultad._
 
-### `yarn test`
+_También vamos a aprender a crear aplicaciones web con **Next.JS** para hacer webs **Server Rendered** y aprenderemos a usar **REDUX** con **React JS**._
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Que veremos en el curso
 
-### `yarn build`
+- Crearemos nuestros proyectos Reales que te puedes encontrar en el mundo laboral.
+- React JS, la librería de Javascript más demandada en el mercado laboral actualmente.
+- Usaremos los Hooks de React, useState, useEffect, useRef, etc...
+- Crearemos nuestros propios Hooks.
+- Aprenderemos a consumir API REST.
+- Una nueva forma de trabajar más ordenada, limpia y declarativa por componentes.
+- Conocer todo lo que tiene React y lo que podemos hacer con el.
+- ¡Conocer qué es el State, Props, Tipos de Componentes en React y mucho más!
+- Utilizaremos React JS con otras tecnologías de JavaScript como LocalStorage.
+- Deployment de Aplicaciones en React de una manera muy rápida y sencilla.
+- Crearemos una web de React completamente con estáticos usando Next JS.
+- Escribiremos código React que siga las buenas prácticas.
+- Aprenderemos a usar Redux con un proyecto real, lo configuraremos desde cero.
+- Aprenderemos a usar NextJS para crear aplicaciones Server Rendered.
+- Gracias a todo este contenido podras conseguir trabajo como desarrollador ReactJS.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⌨️ con ❤️ por [xAgustin93](https://github.com/xAgustin93) 😊
